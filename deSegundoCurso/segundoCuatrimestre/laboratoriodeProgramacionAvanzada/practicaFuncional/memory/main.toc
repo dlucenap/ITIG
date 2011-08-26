@@ -1,0 +1,255 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Planteamiento del problema}{1}{chapter.1}
+\contentsline {paragraph}{Nota:}{1}{section*.2}
+\contentsline {section}{\numberline {1.1}Condiciones}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Funciones propuestas}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Tipos de Sudoku}{2}{section.1.3}
+\contentsline {chapter}{\numberline {2}An\IeC {\'a}lisis destallado del C\IeC {\'o}digo}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Tableros de Pruebas}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Tablero 1}{3}{subsection.2.1.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{3}{section*.3}
+\contentsline {paragraph}{Prototipo:}{3}{section*.4}
+\contentsline {paragraph}{Tablero:}{3}{section*.5}
+\contentsline {subsection}{\numberline {2.1.2}Tablero 2}{3}{subsection.2.1.2}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{3}{section*.6}
+\contentsline {paragraph}{Prototipo:}{3}{section*.7}
+\contentsline {paragraph}{Tablero:}{4}{section*.8}
+\contentsline {subsection}{\numberline {2.1.3}Tablero 3}{4}{subsection.2.1.3}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{4}{section*.9}
+\contentsline {paragraph}{Prototipo:}{4}{section*.10}
+\contentsline {paragraph}{Tablero:}{4}{section*.11}
+\contentsline {subsection}{\numberline {2.1.4}Tablero 4}{4}{subsection.2.1.4}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{4}{section*.12}
+\contentsline {paragraph}{Prototipo:}{4}{section*.13}
+\contentsline {paragraph}{Tablero:}{4}{section*.14}
+\contentsline {section}{\numberline {2.2}L\IeC {\'o}gica para Imprimir Tablero}{4}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}cadenahaciaListadeChar}{4}{subsection.2.2.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{4}{section*.15}
+\contentsline {paragraph}{Prototipo:}{4}{section*.16}
+\contentsline {paragraph}{Prueba 1:}{5}{section*.17}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{5}{section*.18}
+\contentsline {subsection}{\numberline {2.2.2}lstTablero}{5}{subsection.2.2.2}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{5}{section*.19}
+\contentsline {paragraph}{Prototipo:}{5}{section*.20}
+\contentsline {paragraph}{Prueba 1:}{5}{section*.21}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{5}{section*.22}
+\contentsline {subsection}{\numberline {2.2.3}imprimeTerciodeLinea}{5}{subsection.2.2.3}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{5}{section*.23}
+\contentsline {paragraph}{Prototipo:}{5}{section*.24}
+\contentsline {paragraph}{Prueba 1:}{5}{section*.25}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{5}{section*.26}
+\contentsline {subsection}{\numberline {2.2.4}imprimeLinea}{6}{subsection.2.2.4}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{6}{section*.27}
+\contentsline {paragraph}{Prototipo:}{6}{section*.28}
+\contentsline {paragraph}{Prueba 1:}{6}{section*.29}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{6}{section*.30}
+\contentsline {subsection}{\numberline {2.2.5}imprimeCuartodeTablero}{6}{subsection.2.2.5}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{6}{section*.31}
+\contentsline {paragraph}{Prototipo:}{6}{section*.32}
+\contentsline {paragraph}{Prueba 1:}{6}{section*.33}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{6}{section*.34}
+\contentsline {subsection}{\numberline {2.2.6}imprimeContenidodeTablero}{7}{subsection.2.2.6}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{7}{section*.35}
+\contentsline {paragraph}{Prototipo:}{7}{section*.36}
+\contentsline {paragraph}{Prueba 1:}{7}{section*.37}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{7}{section*.38}
+\contentsline {subsection}{\numberline {2.2.7}imprimirTablero}{7}{subsection.2.2.7}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{7}{section*.39}
+\contentsline {paragraph}{Prototipo:}{7}{section*.40}
+\contentsline {paragraph}{Prueba 1:}{7}{section*.41}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{7}{section*.42}
+\contentsline {subsection}{\numberline {2.2.8}mostrarTablero}{7}{subsection.2.2.8}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{7}{section*.43}
+\contentsline {paragraph}{Prototipo:}{8}{section*.44}
+\contentsline {paragraph}{Prueba 1:}{8}{section*.45}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{8}{section*.46}
+\contentsline {section}{\numberline {2.3}L\IeC {\'o}gica para Tratar Jugada}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}valordeAccion}{8}{subsection.2.3.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{8}{section*.47}
+\contentsline {paragraph}{Prototipo:}{8}{section*.48}
+\contentsline {paragraph}{Prueba 1:}{8}{section*.49}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{8}{section*.50}
+\contentsline {subsection}{\numberline {2.3.2}substrPreAccion}{9}{subsection.2.3.2}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{9}{section*.51}
+\contentsline {paragraph}{Prototipo:}{9}{section*.52}
+\contentsline {paragraph}{Prueba 1:}{9}{section*.53}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{9}{section*.54}
+\contentsline {subsection}{\numberline {2.3.3}substrPostAccion}{9}{subsection.2.3.3}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{9}{section*.55}
+\contentsline {paragraph}{Prototipo:}{9}{section*.56}
+\contentsline {paragraph}{Prueba 1:}{9}{section*.57}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{9}{section*.58}
+\contentsline {subsection}{\numberline {2.3.4}jugada}{9}{subsection.2.3.4}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{9}{section*.59}
+\contentsline {paragraph}{Prototipo:}{9}{section*.60}
+\contentsline {paragraph}{Prueba 1:}{9}{section*.61}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{10}{section*.62}
+\contentsline {subsection}{\numberline {2.3.5}introDatos}{10}{subsection.2.3.5}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{10}{section*.63}
+\contentsline {paragraph}{Prototipo:}{10}{section*.64}
+\contentsline {paragraph}{Prueba 1:}{10}{section*.65}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{10}{section*.66}
+\contentsline {subsection}{\numberline {2.3.6}introJugada}{10}{subsection.2.3.6}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{10}{section*.67}
+\contentsline {paragraph}{Prototipo:}{11}{section*.68}
+\contentsline {paragraph}{Prueba 1:}{11}{section*.69}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{11}{section*.70}
+\contentsline {section}{\numberline {2.4}L\IeC {\'o}gica para determinar su el Tablero es Correcto}{11}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}fila}{11}{subsection.2.4.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{11}{section*.71}
+\contentsline {paragraph}{Prototipo:}{11}{section*.72}
+\contentsline {paragraph}{Prueba 1:}{11}{section*.73}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{11}{section*.74}
+\contentsline {subsection}{\numberline {2.4.2}columna}{12}{subsection.2.4.2}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{12}{section*.75}
+\contentsline {paragraph}{Prototipo:}{12}{section*.76}
+\contentsline {paragraph}{Prueba 1:}{12}{section*.77}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{12}{section*.78}
+\contentsline {subsection}{\numberline {2.4.3}listaFila}{12}{subsection.2.4.3}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{12}{section*.79}
+\contentsline {paragraph}{Prototipo:}{12}{section*.80}
+\contentsline {paragraph}{Prueba 1:}{12}{section*.81}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{12}{section*.82}
+\contentsline {subsection}{\numberline {2.4.4}listaColumna}{12}{subsection.2.4.4}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{12}{section*.83}
+\contentsline {paragraph}{Prototipo:}{12}{section*.84}
+\contentsline {paragraph}{Prueba 1:}{12}{section*.85}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{13}{section*.86}
+\contentsline {subsection}{\numberline {2.4.5}cuadrado}{13}{subsection.2.4.5}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{13}{section*.87}
+\contentsline {paragraph}{Prototipo:}{13}{section*.88}
+\contentsline {paragraph}{Prueba 1:}{13}{section*.89}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{13}{section*.90}
+\contentsline {subsection}{\numberline {2.4.6}listaCuadrado}{13}{subsection.2.4.6}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{13}{section*.91}
+\contentsline {paragraph}{Prototipo:}{13}{section*.92}
+\contentsline {paragraph}{Prueba 1:}{13}{section*.93}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{14}{section*.94}
+\contentsline {subsection}{\numberline {2.4.7}elemento}{14}{subsection.2.4.7}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{14}{section*.95}
+\contentsline {paragraph}{Prototipo:}{14}{section*.96}
+\contentsline {paragraph}{Prueba 1:}{14}{section*.97}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{14}{section*.98}
+\contentsline {subsection}{\numberline {2.4.8}buscarElemento}{14}{subsection.2.4.8}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{14}{section*.99}
+\contentsline {paragraph}{Prototipo:}{14}{section*.100}
+\contentsline {paragraph}{Prueba 1:}{14}{section*.101}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{15}{section*.102}
+\contentsline {subsection}{\numberline {2.4.9}}{15}{subsection.2.4.9}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{15}{section*.103}
+\contentsline {paragraph}{Prototipo:}{15}{section*.104}
+\contentsline {paragraph}{Prueba 1:}{15}{section*.105}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{15}{section*.106}
+\contentsline {subsection}{\numberline {2.4.10}sonlasColumnasCorrectas}{15}{subsection.2.4.10}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{15}{section*.107}
+\contentsline {paragraph}{Prototipo:}{15}{section*.108}
+\contentsline {paragraph}{Prueba 1:}{15}{section*.109}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{16}{section*.110}
+\contentsline {subsection}{\numberline {2.4.11}sonlosCuadradosCorrectos}{16}{subsection.2.4.11}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{16}{section*.111}
+\contentsline {paragraph}{Prototipo:}{16}{section*.112}
+\contentsline {paragraph}{Prueba 1:}{16}{section*.113}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{16}{section*.114}
+\contentsline {subsection}{\numberline {2.4.12}esSudokuCorrecto}{16}{subsection.2.4.12}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{16}{section*.115}
+\contentsline {paragraph}{Prototipo:}{16}{section*.116}
+\contentsline {paragraph}{Prueba 1:}{16}{section*.117}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{17}{section*.118}
+\contentsline {section}{\numberline {2.5}L\IeC {\'o}gica para Resolver el Sudoku de manera F\'acil}{17}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}quitarElemento}{17}{subsection.2.5.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{17}{section*.119}
+\contentsline {paragraph}{Prototipo:}{17}{section*.120}
+\contentsline {paragraph}{Prueba 1:}{17}{section*.121}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{17}{section*.122}
+\contentsline {subsection}{\numberline {2.5.2}elementosListadeEnteros}{17}{subsection.2.5.2}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{17}{section*.123}
+\contentsline {paragraph}{Prototipo:}{17}{section*.124}
+\contentsline {paragraph}{Prueba 1:}{17}{section*.125}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{17}{section*.126}
+\contentsline {subsection}{\numberline {2.5.3}elementosFila}{18}{subsection.2.5.3}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{18}{section*.127}
+\contentsline {paragraph}{Prototipo:}{18}{section*.128}
+\contentsline {paragraph}{Prueba 1:}{18}{section*.129}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{18}{section*.130}
+\contentsline {subsection}{\numberline {2.5.4}elementosColumna}{18}{subsection.2.5.4}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{18}{section*.131}
+\contentsline {paragraph}{Prototipo:}{18}{section*.132}
+\contentsline {paragraph}{Prueba 1:}{18}{section*.133}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{18}{section*.134}
+\contentsline {subsection}{\numberline {2.5.5}elementosCuadrado}{18}{subsection.2.5.5}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{18}{section*.135}
+\contentsline {paragraph}{Prototipo:}{18}{section*.136}
+\contentsline {paragraph}{Prueba 1:}{18}{section*.137}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{19}{section*.138}
+\contentsline {subsection}{\numberline {2.5.6}filasinElemento ???}{19}{subsection.2.5.6}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{19}{section*.139}
+\contentsline {paragraph}{Prototipo:}{19}{section*.140}
+\contentsline {paragraph}{Prueba 1:}{19}{section*.141}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{19}{section*.142}
+\contentsline {subsection}{\numberline {2.5.7}elementosparaIndice}{19}{subsection.2.5.7}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{19}{section*.143}
+\contentsline {paragraph}{Prototipo:}{19}{section*.144}
+\contentsline {paragraph}{Prueba 1:}{19}{section*.145}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{19}{section*.146}
+\contentsline {subsection}{\numberline {2.5.8}eliminarBlancos}{19}{subsection.2.5.8}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{19}{section*.147}
+\contentsline {paragraph}{Prototipo:}{19}{section*.148}
+\contentsline {paragraph}{Prueba 1:}{20}{section*.149}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{20}{section*.150}
+\contentsline {subsection}{\numberline {2.5.9}insertar}{20}{subsection.2.5.9}
+\contentsline {paragraph}{Autor:}{20}{section*.151}
+\contentsline {paragraph}{Licencia de C\IeC {\'o}digo:}{20}{section*.152}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{20}{section*.153}
+\contentsline {paragraph}{Prototipo:}{20}{section*.154}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{20}{section*.155}
+\contentsline {subsection}{\numberline {2.5.10}ordenar}{20}{subsection.2.5.10}
+\contentsline {paragraph}{Autor:}{20}{section*.156}
+\contentsline {paragraph}{Licencia de C\IeC {\'o}digo:}{20}{section*.157}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{20}{section*.158}
+\contentsline {paragraph}{Prototipo:}{20}{section*.159}
+\contentsline {paragraph}{Prueba 1:}{20}{section*.160}
+\contentsline {paragraph}{Prueba 2:}{21}{section*.161}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{21}{section*.162}
+\contentsline {subsection}{\numberline {2.5.11}buscarElemento}{21}{subsection.2.5.11}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{21}{section*.163}
+\contentsline {paragraph}{Prototipo:}{21}{section*.164}
+\contentsline {paragraph}{Prueba 1:}{21}{section*.165}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{21}{section*.166}
+\contentsline {subsection}{\numberline {2.5.12}frontBuscarElemento}{21}{subsection.2.5.12}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{21}{section*.167}
+\contentsline {paragraph}{Prototipo:}{21}{section*.168}
+\contentsline {paragraph}{Prueba 1:}{21}{section*.169}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{21}{section*.170}
+\contentsline {subsection}{\numberline {2.5.13}elementoparaIndice}{22}{subsection.2.5.13}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{22}{section*.171}
+\contentsline {paragraph}{Prototipo:}{22}{section*.172}
+\contentsline {paragraph}{Prueba 1:}{22}{section*.173}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{22}{section*.174}
+\contentsline {subsection}{\numberline {2.5.14}fontTableroconJugada}{22}{subsection.2.5.14}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{22}{section*.175}
+\contentsline {paragraph}{Prototipo:}{22}{section*.176}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{22}{section*.177}
+\contentsline {subsection}{\numberline {2.5.15}resolverSudokudeManeraFacil}{22}{subsection.2.5.15}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{22}{section*.178}
+\contentsline {paragraph}{Prototipo:}{22}{section*.179}
+\contentsline {paragraph}{Tablero de Prueba Original:}{22}{section*.180}
+\contentsline {paragraph}{tableroPruebaFacil1:}{23}{section*.181}
+\contentsline {paragraph}{tableroPruebaFacil2:}{23}{section*.182}
+\contentsline {paragraph}{Prueba 1:}{23}{section*.183}
+\contentsline {paragraph}{Prueba 2:}{23}{section*.184}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{23}{section*.185}
+\contentsline {section}{\numberline {2.6}L\IeC {\'o}gica para Resolver el Sudoku de Manera D\'ificil (Algoritmo de BACKTRAKING)}{23}{section.2.6}
+\contentsline {section}{\numberline {2.7}Funci\IeC {\'o}n Principal}{23}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}main}{23}{subsection.2.7.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{23}{section*.186}
+\contentsline {paragraph}{Prototipo:}{24}{section*.187}
+\contentsline {paragraph}{Prueba 1:}{24}{section*.188}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{24}{section*.189}
+\contentsline {section}{\numberline {2.8}Funci\IeC {\'o}n de Ejecuci\IeC {\'o}n}{25}{section.2.8}
+\contentsline {subsection}{\numberline {2.8.1}main(cadenahaciaListadeChar(tablero), tablero);; }{25}{subsection.2.8.1}
+\contentsline {paragraph}{Prop\IeC {\'o}sito:}{25}{section*.190}
+\contentsline {paragraph}{Prototipo:}{25}{section*.191}
+\contentsline {paragraph}{Prueba 1:}{25}{section*.192}
+\contentsline {paragraph}{C\IeC {\'o}digo:}{25}{section*.193}
+\contentsline {chapter}{\numberline {3}Pruebas}{27}{chapter.3}
+\contentsline {chapter}{Bibliograf\'{\i }a}{29}{chapter.3}

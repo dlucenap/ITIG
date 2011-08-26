@@ -1,0 +1,93 @@
+\documentclass[a4paper,12pt]{book}
+%Paquetes
+\usepackage[latin1]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath, amsthm, amsfonts}
+\usepackage{makeidx}
+\usepackage{pstricks} % para color
+\usepackage{pst-node} % para diagramas
+\usepackage{pst-plot} % para representacion de datos
+                      % funciones, etc
+\usepackage{pst-text}
+\usepackage{pst-coil}
+\usepackage{hyperref}
+\usepackage[dvips]{graphicx}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{eso-pic,calc}                        
+\usepackage{bibunits}
+\let\T=\text
+\fancyhead[L]{} 
+%\fancyhead[RE]{}
+%\fancyhead[RO,LE]{\thepage}
+
+% Utilidades
+%--------------------------------------------------------------------------
+\newtheorem{thm}{Teorema}[section]
+\newtheorem{cor}[thm]{Corolario}
+\newtheorem{lem}[thm]{Lema}
+\newtheorem{prop}[thm]{Proposici\'on}
+\theoremstyle{definition}
+\newtheorem{defn}[thm]{Definici\'on}
+\newtheorem{form}[thm]{Formalidad}
+\theoremstyle{remark}
+\newtheorem{rem}[thm]{Observaci\'on}
+
+\let\stdthebibliography\thebibliography
+\renewcommand*{\thebibliography}{%
+\let\section\subsection\stdthebibliography}
+%--------------------------------------------------------------------------
+% \newcommand\BackgroundPicture{%
+%    \put(0,0){%
+%      \parbox[b][\paperheight]{\paperwidth}{%       
+%        \vfill
+%        \centering
+%        \begin{large}El presente texto se trata de un borrador,\\ encontrare\'is la versi\'on definitiva en: \href{http://www.diegolucena.com}{http://www.diegolucena.com}.       \end{large}
+%        \vfill
+%      }}}  
+% % The picture is centered on the page background
+% 
+% \AddToShipoutPicture{\BackgroundPicture} 
+\pdfpagewidth 6in
+\pdfpageheight 9in
+\setlength\topmargin{0in}
+\setlength\headheight{0in}
+\setlength\headsep{0in}
+\setlength\textheight{7.7in}
+\setlength\textwidth{6.5in}
+\setlength\oddsidemargin{0in}
+\setlength\evensidemargin{0in}
+\setlength\headheight{25pt}
+\setlength\headsep{0.25in}
+\pagestyle{empty}
+\frontmatter
+\makeindex
+\begin{document}
+\include{pre}
+%\newpage{\pagestyle{empty}\cleardoublepage}
+% \include{prologo}
+% \newpage{\pagestyle{empty}\cleardoublepage}
+% \include{fedeErratas}
+% \newpage{\pagestyle{empty}\cleardoublepage}
+\tableofcontents
+\newpage{\pagestyle{empty}\cleardoublepage}
+\listoffigures
+\newpage{\pagestyle{empty}\cleardoublepage}
+\mainmatter
+\pagestyle{fancy}
+% \addcontentsline{toc}{chapter}{Tabla de notaci\'on}
+% \include{tabla_notacion}
+% \newpage{\pagestyle{empty}\cleardoublepage}
+\include{cap1}
+\newpage{\pagestyle{empty}\cleardoublepage}
+\include{cap2}
+\newpage{\pagestyle{empty}\cleardoublepage}
+\appendix
+\include{aneA}
+\newpage{\pagestyle{empty}\cleardoublepage}
+\addcontentsline{toc}{chapter}{\bibname}
+\include{bib}
+% \newpage{\pagestyle{empty}\cleardoublepage}
+% \addcontentsline{toc}{chapter}{\'Indice alfab\'etico}
+% \printindex
+\end{document} 

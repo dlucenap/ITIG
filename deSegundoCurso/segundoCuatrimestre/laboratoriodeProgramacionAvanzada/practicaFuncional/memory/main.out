@@ -1,0 +1,62 @@
+\BOOKMARK [0][-]{chapter.1}{Planteamiento del problema}{}
+\BOOKMARK [1][-]{section.1.1}{Condiciones}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Funciones propuestas}{chapter.1}
+\BOOKMARK [1][-]{section.1.3}{Tipos de Sudoku}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{An\341lisis destallado del C\363digo}{}
+\BOOKMARK [1][-]{section.2.1}{Tableros de Pruebas}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.1.1}{Tablero 1}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.2}{Tablero 2}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.3}{Tablero 3}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.4}{Tablero 4}{section.2.1}
+\BOOKMARK [1][-]{section.2.2}{L\363gica para Imprimir Tablero}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{cadenahaciaListadeChar}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.2}{lstTablero}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.3}{imprimeTerciodeLinea}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.4}{imprimeLinea}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.5}{imprimeCuartodeTablero}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.6}{imprimeContenidodeTablero}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.7}{imprimirTablero}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.8}{mostrarTablero}{section.2.2}
+\BOOKMARK [1][-]{section.2.3}{L\363gica para Tratar Jugada}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.3.1}{valordeAccion}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.2}{substrPreAccion}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.3}{substrPostAccion}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.4}{jugada}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.5}{introDatos}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.6}{introJugada}{section.2.3}
+\BOOKMARK [1][-]{section.2.4}{L\363gica para determinar su el Tablero es Correcto}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.4.1}{fila}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.2}{columna}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.3}{listaFila}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.4}{listaColumna}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.5}{cuadrado}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.6}{listaCuadrado}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.7}{elemento}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.8}{buscarElemento}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.9}{}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.10}{sonlasColumnasCorrectas}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.11}{sonlosCuadradosCorrectos}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.12}{esSudokuCorrecto}{section.2.4}
+\BOOKMARK [1][-]{section.2.5}{L\363gica para Resolver el Sudoku de manera F\341cil}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.5.1}{quitarElemento}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.2}{elementosListadeEnteros}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.3}{elementosFila}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.4}{elementosColumna}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.5}{elementosCuadrado}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.6}{filasinElemento ???}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.7}{elementosparaIndice}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.8}{eliminarBlancos}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.9}{insertar}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.10}{ordenar}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.11}{buscarElemento}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.12}{frontBuscarElemento}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.13}{elementoparaIndice}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.14}{fontTableroconJugada}{section.2.5}
+\BOOKMARK [2][-]{subsection.2.5.15}{resolverSudokudeManeraFacil}{section.2.5}
+\BOOKMARK [1][-]{section.2.6}{L\363gica para Resolver el Sudoku de Manera D\355ficil \(Algoritmo de BACKTRAKING\)}{chapter.2}
+\BOOKMARK [1][-]{section.2.7}{Funci\363n Principal}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.7.1}{main}{section.2.7}
+\BOOKMARK [1][-]{section.2.8}{Funci\363n de Ejecuci\363n}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.8.1}{main\(cadenahaciaListadeChar\(tablero\), tablero\);; }{section.2.8}
+\BOOKMARK [0][-]{chapter.3}{Pruebas}{}
+\BOOKMARK [0][-]{chapter.3}{Bibliograf\355a}{}

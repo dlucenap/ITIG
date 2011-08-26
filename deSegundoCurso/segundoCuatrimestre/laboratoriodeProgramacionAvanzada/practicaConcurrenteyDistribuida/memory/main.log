@@ -1,0 +1,664 @@
+This is pdfTeXk, Version 3.1415926-1.40.9 (Web2C 7.5.7) (format=latex 2010.12.22)  9 JAN 2011 12:25
+entering extended mode
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, catalan, galician, spanish, loaded.
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2005/09/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2006/05/05 v1.1b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/share/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2006/05/05 v1.1b Input encoding file
+))
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/spanish.ldf
+Language: spanish.ldf 2008/07/06 v5.0e Spanish support from the babel system
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\es@datefmt=\count89
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 490.
+Package babel Info: Making . an active character on input line 583.
+Package babel Info: Making < an active character on input line 628.
+Package babel Info: Making > an active character on input line 628.
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen104
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks18
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks19
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks27
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2001/10/25 v2.2f
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 132.
+)
+(/usr/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/generic/pstricks/latex/pstricks.sty
+Package: pstricks 2008/01/24 v0.37 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texmf-dist/tex/generic/pstricks/pstricks.tex
+`PSTricks' v1.26  <2008/07/31> (tvz)
+\pst@dima=\dimen113
+\pst@dimb=\dimen114
+\pst@dimc=\dimen115
+\pst@dimd=\dimen116
+\pst@dimg=\dimen117
+\pst@dimh=\dimen118
+\pst@hbox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count103
+\pst@cntb=\count104
+\pst@cntc=\count105
+\pst@cntd=\count106
+\pst@cntg=\count107
+\pst@cnth=\count108
+\pst@toks=\toks28
+(/usr/share/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen119
+\psxunit=\dimen120
+\psyunit=\dimen121
+\pslinewidth=\dimen122
+\pst@customdefs=\toks29
+\pslinearc=\dimen123
+\everypsbox=\toks30
+\psframesep=\dimen124
+\pslabelsep=\dimen125
+\pst@shift=\dimen126
+\theoverlaybox=\box30
+)
+File: pstricks.tex 2008/07/31 v1.26 `PSTricks' (tvz)
+
+(/usr/share/texmf-site/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `override' ignored on input line 216.
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texmf-dist/tex/generic/pstricks/latex/pst-node.sty
+Package: pst-node 2006/01/01 package wrapper for pst-node.tex
+
+(/usr/share/texmf-dist/tex/generic/pstricks/pst-node.tex  v1.00, 2007/10/16
+\psrow=\count109
+\pscol=\count110
+\psmatrixcnt=\count111
+\psrowsep=\skip49
+\pscolsep=\skip50
+)
+File: pst-node.tex 2007/10/16 1.00 `pst-node' (tvz)
+)
+(/usr/share/texmf-dist/tex/generic/pstricks/latex/pst-plot.sty
+Package: pst-plot 2004/07/15 package wrapper for pst-plot.tex
+
+(/usr/share/texmf-dist/tex/generic/pstricks/pst-plot.tex
+(/usr/share/texmf-dist/tex/generic/multido/multido.tex
+ v1.41, 2004/05/18 <tvz>
+\multido@count=\count112
+\multidocount=\count113
+\multido@stuff=\toks31
+)  v1.01, 2008/01/26)
+File: pst-plot.tex 2008/01/26 1.01 `pst-plot' (tvz)
+)
+(/usr/share/texmf-dist/tex/latex/pst-text/pst-text.sty
+Package: pst-text 2006/01/01 package wrapper for pst-text.tex (hv)
+
+(/usr/share/texmf-dist/tex/generic/pst-text/pst-text.tex
+ v1.00, 2006/11/05(tvz,hv))
+File: pst-text.tex 2006/11/05 1.00 `pst-text' (tvz)
+)
+(/usr/share/texmf-dist/tex/latex/pst-coil/pst-coil.sty
+Package: pst-coil 2006/08/11 package wrapper for pst-coil.tex (hv)
+
+(/usr/share/texmf-dist/tex/generic/pst-coil/pst-coil.tex  v1.00, 2006/11/05
+(/usr/share/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
+\XKV@depth=\count114
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+File: pst-coil.tex 2006/11/05 v1.00 `pst-coil' (tvz)
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2008/08/14 v6.78f Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2007/12/12 v1.6 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2007/09/09 v1.3 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2006/08/21 v0.3 Provides ifxetex conditional
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2008/08/01 v1.3 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2008/08/01 xcolor patch
+))
+\@linkdim=\dimen127
+\Hy@linkcounter=\count115
+\Hy@pagecounter=\count116
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2008/08/14 v6.78f Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf/tex/latex/config/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2007/10/18 v3.0 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 2876.
+Package hyperref Info: Link nesting OFF on input line 2881.
+Package hyperref Info: Hyper index ON on input line 2884.
+Package hyperref Info: Plain pages OFF on input line 2891.
+Package hyperref Info: Backreferencing OFF on input line 2896.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3086.
+(/usr/share/texmf-dist/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3272.
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2007/12/12 v0.3 LuaTeX support for pdfTeX utility functions
+ (HO)
+Package pdftexcmds Info: LuaTeX not detected on input line 139.
+)))
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2007/09/29 v1.3 Key value parser with default handler suppor
+t (HO)
+)
+\Fld@menulength=\count117
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+\Field@toks=\toks34
+Package hyperref Info: Hyper figures OFF on input line 4189.
+Package hyperref Info: Link nesting OFF on input line 4194.
+Package hyperref Info: Hyper index ON on input line 4197.
+Package hyperref Info: backreferencing OFF on input line 4204.
+Package hyperref Info: Link coloring OFF on input line 4209.
+Package hyperref Info: Link coloring with OCG OFF on input line 4214.
+Package hyperref Info: PDF/A mode OFF on input line 4219.
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
+)
+*hyperref using default driver hdvips*
+(/usr/share/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2008/08/14 v6.78f Hyperref driver for dvips
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2008/08/14 v6.78f Hyperref definitions for pdfmark specials
+\pdf@docset=\toks35
+\pdf@box=\box31
+\pdf@toks=\toks36
+\pdf@defaulttoks=\toks37
+\Fld@listcount=\count121
+))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 90.
+)
+\Gin@req@height=\dimen130
+\Gin@req@width=\dimen131
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip51
+\f@ncyO@elh=\skip52
+\f@ncyO@erh=\skip53
+\f@ncyO@olh=\skip54
+\f@ncyO@orh=\skip55
+\f@ncyO@elf=\skip56
+\f@ncyO@erf=\skip57
+\f@ncyO@olf=\skip58
+\f@ncyO@orf=\skip59
+)
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count122
+\calc@Bcount=\count123
+\calc@Adimen=\dimen132
+\calc@Bdimen=\dimen133
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count124
+\calc@Cskip=\skip62
+)
+(/usr/share/texmf-dist/tex/latex/bibunits/bibunits.sty
+Package: bibunits 2004/05/12 v2.4 Multiple bibliographies in one document.
+\@bibunitaux=\write3
+\@bibunitauxcnt=\count125
+)
+\c@thm=\count126
+\@indexfile=\write4
+\openout4 = `main.idx'.
+
+
+Writing index file main.idx
+(./main.aux (./pre.aux) (./cap1.aux) (./cap2.aux) (./aneA.aux) (./bib.aux)
+(./bu.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+Package hyperref Info: Link coloring OFF on input line 65.
+ (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count127
+)
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+ (./main.out)
+(./main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+\AtBeginShipoutBox=\box32
+ ABD: EveryShipout initializing macros
+\openout2 = `pre.aux'.
+
+ (./pre.tex [1
+
+
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2002/01/19 v2.2g AMS font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2002/01/19 v2.2g AMS font definitions
+) [2] [3] [4
+
+]) [5] [6
+
+
+]
+(./main.toc [7])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [8] (./main.lof)
+\tf@lof=\write7
+\openout7 = `main.lof'.
+
+ [9
+
+
+] [10
+
+]
+\openout2 = `cap1.aux'.
+
+ (./cap1.tex
+Cap\'{\i }tulo 1.
+[1
+
+
+
+] [2] [3]
+File: ./uml/PlantillaDeportista.1 Graphic file (type eps)
+ <./uml/PlantillaDeportista.1> [4]
+File: ./uml/Deportista.1 Graphic file (type eps)
+ <./uml/Deportista.1> [5]
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 268--268
+[]\OT1/cmtt/m/n/12 PlantillaDeportista varPDeportista = new PlantillaDeportista
+(varIdentificador);[] 
+ []
+
+[6]
+File: ./uml/Piscina.1 Graphic file (type eps)
+ <./uml/Piscina.1> [7]
+File: ./uml/CampoGolf.1 Graphic file (type eps)
+ <./uml/CampoGolf.1> [8] [9]
+File: ./uml/SalaMusculacion.1 Graphic file (type eps)
+
+<./uml/SalaMusculacion.1> [10] [11]
+Overfull \hbox (11.89525pt too wide) in paragraph at lines 488--488
+[]            \OT1/cmtt/m/n/12 if ((this.abierto == false) && (deportistaInstal
+acionMas.size() ==[] 
+ []
+
+
+Overfull \hbox (5.72025pt too wide) in paragraph at lines 488--488
+[]                \OT1/cmtt/m/n/12 System.out.println("Deportistas terminando e
+l ejercicio...");[] 
+ []
+
+[12]
+Overfull \hbox (5.72025pt too wide) in paragraph at lines 523--523
+[]        \OT1/cmtt/m/n/12 CiudadDeportiva.jTextSaladeMusculacion.setText(mostr
+arInstalacion());[] 
+ []
+
+[13]
+Overfull \hbox (5.72025pt too wide) in paragraph at lines 546--546
+[]        \OT1/cmtt/m/n/12 CiudadDeportiva.jTextSaladeMusculacion.setText(mostr
+arInstalacion());[] 
+ []
+
+File: ./uml/CiudadDeportiva.1 Graphic file (type eps)
+<./uml/CiudadDeportiva.1> [14]
+Overfull \hbox (24.24525pt too wide) in paragraph at lines 590--590
+[]    \OT1/cmtt/m/n/12 private void jButtonDetenerActionPerformed(java.awt.even
+t.ActionEvent evt) {[] 
+ []
+
+
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 590--590
+[]    \OT1/cmtt/m/n/12 private void jButtonReanudarActionPerformed(java.awt.eve
+nt.ActionEvent evt)[] 
+ []
+
+[15] [16]
+Overfull \hbox (22.74493pt too wide) in paragraph at lines 665--665
+ []\OT1/cmtt/m/n/12 $ java (desde build) path hacia paquete .jar metapaquete/se
+rvidor o cliente[] 
+ []
+
+[17]
+File: ./uml/iCiudadRMI.1 Graphic file (type eps)
+ <./uml/iCiudadRMI.1>
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 747--747
+[]    \OT1/cmtt/m/n/12 ArrayList<PlantillaDeportista> estadoPistadeTenis() thro
+ws RemoteException;[] 
+ []
+
+[18]
+File: ./uml/CiudadRMI.1 Graphic file (type eps)
+ <./uml/CiudadRMI.1>
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 792--792
+[]\OT1/cmtt/m/n/12 public class CiudadRMI extends UnicastRemoteObject implement
+s InterfazCiudadRMI[] 
+ []
+
+
+Overfull \hbox (11.89525pt too wide) in paragraph at lines 792--792
+[]    \OT1/cmtt/m/n/12 public ArrayList<PlantillaDeportista> estadoColaSaladeMu
+sculacion() throws[] 
+ []
+
+[19]
+File: ./uml/ModuloControl.1 Graphic file (type eps)
+ <./uml/ModuloControl.1>
+Overfull \hbox (11.89525pt too wide) in paragraph at lines 876--876
+[]\OT1/cmtt/m/n/12 jButtonAbrirSaladeMusculacionActionPerformed(java.awt.event.
+ActionEvent evt) {[] 
+ []
+
+[20]
+Overfull \hbox (5.72025pt too wide) in paragraph at lines 876--876
+[]        \OT1/cmtt/m/n/12 //Recibe el estado de la cola de musculacion y de la
+ pista de tenis y[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Overfull \hbox (18.07025pt too wide) in paragraph at lines 876--876
+[]\OT1/cmtt/m/n/12 jButtonCerrarSaladeMusculacionActionPerformed(java.awt.event
+.ActionEvent evt) {[] 
+ []
+
+File: ./uml/dCasosdeUso.1 Graphic file (type eps)
+<./uml/dCasosdeUso.1>) [22]
+\openout2 = `cap2.aux'.
+
+ (./cap2.tex
+Cap\'{\i }tulo 2.
+File: ./images/generalCiudadDeportiva.eps Graphic file (type eps)
+<./images/generalCiudadDeportiva.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./images/botonReanudar.eps Graphic file (type eps)
+<./images/botonReanudar.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./images/botonDetener.eps Graphic file (type eps)
+<./images/botonDetener.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: ./images/findeHilos.eps Graphic file (type eps)
+<./images/findeHilos.eps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [23
+
+
+
+
+] [24] [25] [26
+
+
+]
+\openout2 = `aneA.aux'.
+
+ (./aneA.tex
+Ap\'{e}ndice A.
+) [27
+
+
+] [28
+
+
+]
+\openout2 = `bib.aux'.
+
+ (./bib.tex
+\openout3 = `bu.aux'.
+
+ (./main.bbl)) [29
+
+
+] (./main.aux (./pre.aux) (./cap1.aux)
+(./cap2.aux) (./aneA.aux) (./bib.aux) (./bu.aux)) ) 
+Here is how much of TeX's memory you used:
+ 7874 strings out of 495008
+ 103931 string characters out of 1181313
+ 214672 words of memory out of 3000000
+ 10828 multiletter control sequences out of 10000+50000
+ 13632 words of font info for 52 fonts, out of 3000000 for 5000
+ 54 hyphenation exceptions out of 8191
+ 38i,13n,52p,245b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on main.dvi (39 pages, 106104 bytes).

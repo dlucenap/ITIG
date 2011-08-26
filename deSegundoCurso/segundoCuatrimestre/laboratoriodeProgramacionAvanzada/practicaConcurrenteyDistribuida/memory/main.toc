@@ -1,0 +1,35 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}An\'alisis de Alto Nivel}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}\textquestiondown C\'omo hemos desarrollado la Aplicaci\'on?}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Requisitos}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Respecto al funcionamiento general de la aplicaci\'on}{1}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Respecto al M\'odulo de Control}{2}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Respecto a la propia implementaci\'on}{3}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Tecnolog\'ia empleada}{3}{subsection.1.3.1}
+\contentsline {subsubsection}{Concurrencia}{3}{section*.3}
+\contentsline {subsubsection}{Comunicaci\'on entre Hilos}{3}{section*.4}
+\contentsline {subsubsection}{RMI}{4}{section*.5}
+\contentsline {section}{\numberline {1.4}Elementos principales}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}La implementaci\'on de la L\'ogica Concurrente}{4}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Clase PlantillaDeportista.java}{4}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Clase Deportista.java}{5}{subsection.1.5.2}
+\contentsline {paragraph}{Nota:}{7}{section*.6}
+\contentsline {subsection}{\numberline {1.5.3}Clase Piscina.java}{7}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Clase CampoGolf.java}{8}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Clase SalaMusculacion.java}{12}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Clase PistaTenis.java}{14}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Clase CiudadDeportiva.java}{14}{subsection.1.5.7}
+\contentsline {section}{\numberline {1.6}La implementaci\'on RMI}{16}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Apliaci\'on de la tecnolog\'ia RMI en nuestro simulador}{16}{subsection.1.6.1}
+\contentsline {subsubsection}{El m\'etodo Java RMI (Algoritmo)}{16}{section*.7}
+\contentsline {subsubsection}{Ejecuci\'on en entorno Linux}{17}{section*.8}
+\contentsline {subsubsection}{Ejecuci\'on en entorno Windows}{17}{section*.9}
+\contentsline {subsection}{\numberline {1.6.2}Interfaz iCiudadRMI.java}{18}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Clase CiudadRMI.java}{19}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Clase ModuloControl.java}{20}{subsection.1.6.4}
+\contentsline {section}{\numberline {1.7}An\'alisis UML}{22}{section.1.7}
+\contentsline {section}{\numberline {1.8}Diagrama de Casos de Uso}{22}{section.1.8}
+\contentsline {chapter}{\numberline {2}Manual de Usuario}{23}{chapter.2}
+\contentsline {section}{\numberline {2.1}Cuadro de Mando General (CMG)}{23}{section.2.1}
+\contentsline {chapter}{\numberline {A}El sistema de Tiempo Aleatorio}{27}{appendix.A}
+\contentsline {chapter}{Bibliograf\'{\i }a}{29}{equation.A.0.1}

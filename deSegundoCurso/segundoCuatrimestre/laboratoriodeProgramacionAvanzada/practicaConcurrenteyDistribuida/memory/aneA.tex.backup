@@ -1,0 +1,9 @@
+\chapter{El sistema de Tiempo Aleatorio}
+\begin{verbatim}
+try {
+    sleep(((long) (Math.random() * (1500 - 800)) + 800));
+    } catch (InterruptedException e) {
+	System.out.println(e.getMessage());
+				      }		
+\end{verbatim}
+

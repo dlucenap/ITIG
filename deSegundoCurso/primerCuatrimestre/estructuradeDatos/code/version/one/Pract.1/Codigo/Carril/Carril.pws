@@ -1,0 +1,67 @@
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filenumbers]
+0=1
+1=2
+2=1
+3=2
+4=1
+5=68
+6=1
+7=30
+8=52
+9=2
+10=2
+11=1
+12=2
+13=31
+
+[filemarkers]
+0=
+1=
+2=
+3=
+4=
+5=
+6=
+7=
+8=
+9=
+10=
+11=
+12=
+13=
+
+[filelist]
+0=/home/diego/Projects/Carril/include/vehiculos.h
+1=/home/diego/Projects/Carril/include/vehiculos.c
+2=/home/diego/Projects/Carril/include/vehiculo.h
+3=/home/diego/Projects/Carril/include/vehiculo.c
+4=/home/diego/Projects/Carril/include/simulador.h
+5=/home/diego/Projects/Carril/include/simulador.c
+6=/home/diego/Projects/Carril/include/gulib.h
+7=/home/diego/Projects/Carril/include/estadisticas.h
+8=/home/diego/Projects/Carril/include/estadisticas.c
+9=/home/diego/Projects/Carril/include/dato.h
+10=/home/diego/Projects/Carril/include/dato.c
+11=/home/diego/Projects/Carril/include/carril.h
+12=/home/diego/Projects/Carril/include/carril.c
+13=/home/diego/Projects/Carril/src/main.cc
+
+[Project Tree]
+0=0
+1=0:0
+2=0:1
+
+[File Tree]
+0=0
